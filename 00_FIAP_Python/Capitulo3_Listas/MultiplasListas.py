@@ -1,4 +1,4 @@
-from Capitulo3_Funcoes.IdentificacaoDeFuncoes import *
+from util.IdentificacaoDeFuncoes import *
 # o from recebe o local físico
 # o import decide quais funções serão importadas (* asterísco importa tudo)
 
