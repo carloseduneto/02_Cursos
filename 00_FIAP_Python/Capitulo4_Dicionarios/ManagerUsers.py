@@ -1,4 +1,4 @@
-from Capitulo4_Dicionarios.Funcoes import *
+from Capitulo5_Funcoes.Funcoes import *
 usuario={}
 opcaoEscolhida = ""
 

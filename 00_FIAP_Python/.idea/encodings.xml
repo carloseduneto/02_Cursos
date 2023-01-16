@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="PROJECT" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Capitulo5_Manipula_Arquivos/04.1_Inventario.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Capitulo5_Manipula_Arquivos/04_Inventario.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Capitulo5_Manipula_Arquivos/05_Boston.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Capitulo5_Manipula_Arquivos/06_ManipulaJSON.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Capitulo5_Manipula_Arquivos/FuncoesArquivos.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Capitulo6_1_Pacotes/01_ConverterGeolocalizacao.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Capitulo6_1_Pacotes/03_Geolocalizacao_plus.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Capitulo99_Funcoes/Funcoes_Json.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
